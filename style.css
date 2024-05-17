@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 1750px;
+    margin: 0 auto;
+    
+}
+header {
+    width: 1780px;
+    height: 170px;
+    background: #A7D9C6;
+}
+header img {
+    padding-left: 30px;
+    width: 180px;
+    height: 170px;
+}
+header li {
+    float: right;
+    line-height: 155px;
+    padding: 0 335px;
+    list-style: none;
+}
+header li a {
+    color: #D9765F;
+    font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+
+}
+nav {
+    width: 1780px;
+    height: 80px;
+    background: #F2D5D5;
+    margin-bottom: 100px;
+}
+nav .Menu ul {
+    list-style: none;
+
+}
+nav .Menu ul li {
+    float: left;
+    line-height:75px;
+    padding: 0 50px;
+}
+nav .Menu ul li a {
+    color:cornflowerblue;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+nav .Others {
+    line-height: 80px;
+    float: right;
+    margin-right: 55px;
+}
+nav .Others input {
+    font-size: 30px;
+}
+nav .Others button {
+    font-size: 30px;
+}
+article .new_list h3{
+    position:absolute;
+    top : 74%;
+    left: 19%;
+    color:green;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+}
+article .new_list h4 {
+    position:absolute;
+    top: 82%;
+    left: 33%;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+article .new_list h5 {
+    position:absolute;
+    top: 82%;
+    left: 17%;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;         
+}
+article .new_list1 h3{
+    position:absolute;
+    top : 74%;
+    left: 52%;
+    color:green;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+}
+article .new_list1 h4 {
+    position:absolute;
+    top: 82%;
+    left: 59%;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+article .new_list1 h5 {
+    position:absolute;
+    top: 82%;
+    left: 43%;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bolder;         
+}
+body{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+main.table{
+    width: 600px;
+    height: 50px;
+    background-color: #fff5;
+    position:absolute;
+    top: 27%;
+    left: 62%;
+}
+table, thead, th {
+    color: #511414;
+}
+table, th, td{
+    padding: 1rem;
+
+}
+.table_header {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslateblue;
+}
+
+
+
